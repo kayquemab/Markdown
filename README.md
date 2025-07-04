@@ -9,6 +9,7 @@ O GitHub é uma das plataformas mais reconhecidas entre desenvolvedores. Por iss
 📂 Main<br>
 ├── 📂 Descrição de .md para Devs<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── 📄 Readme.md<br>
+├── 📄 Documentação.pdf<br>
 └── 📄 README.md<br>
 
 ### 🚀 Como Usar
