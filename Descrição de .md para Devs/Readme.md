@@ -37,31 +37,33 @@ Sou movido por inovação, tecnologia e aprendizado constante. A cada projeto, b
 
 <div align="left"> 
 
-<img height="50" title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" alt="Algoritmos" style="margin-right: 15px;">
-<img height="50" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="margin-right: 15px;">
-<img height="50" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="margin-right: 15px;">
-<img height="50" title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" style="margin-right: 15px;">
-<img height="50" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" style="margin-right: 15px;">
-<img height="50" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" style="margin-right: 15px;">
-<img height="50" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" style="margin-right: 15px;"/>
-<img height="50" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript" style="margin-right: 15px;"/>
-<img height="50" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" style="margin-right: 15px;"/>
-<img height="50" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" style="margin-right: 15px;"/>
-<img height="50" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" style="margin-right: 15px;"/>
-<img height="50" title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" style="margin-right: 15px;"/>
-<img height="50" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" style="margin-right: 15px;"/>
-<img height="50" title="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" style="margin-right: 15px;"/>
-<img height="50" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="margin-right: 15px;"/>
-<img height="50" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" style="margin-right: 15px;"/>
-<img height="50" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" style="margin-right: 15px;"/>
-<img height="50" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-right: 15px;"/>
-<img height="50" title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node" style="margin-right: 15px;"/>
-<img height="50" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" style="margin-right: 15px;"/>
-<img height="50" title="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" style="margin-right: 15px;"/>
-<img height="50" title="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" style="margin-right: 15px;"/>
-<img height="50" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" alt="Dart" style="margin-right: 15px;"/>
-<img height="50" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" style="margin-right: 15px;"/>
-    
+<img title="Portugol"   src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png"                                 width="55" height="55"/>
+<img title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="55" height="55"/>
+<img title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="55" height="55"/>
+<img title="GitHub"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"               width="55" height="55"/>
+<img title="Markdown"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"           width="55" height="55"/>
+<img title="HTML5"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"                    width="55" height="55"/>
+<img title="CSS3"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"                      width="55" height="55"/>
+<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"       width="55" height="55"/>
+<img title="React"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"                 width="55" height="55"/>
+<img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"       width="55" height="55"/>
+<img title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"       width="55" height="55"/>
+<img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"       width="55" height="55"/>
+<img title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"       width="55" height="55"/>
+<img title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"       width="55" height="55"/>
+<img title="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"       width="55" height="55"/>
+<img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"       width="55" height="55"/>
+<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"       width="55" height="55"/>
+<img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"       width="55" height="55"/>
+<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"       width="55" height="55"/>
+<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"       width="55" height="55"/>
+<img title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"       width="55" height="55"/>
+<img title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"       width="55" height="55"/>
+<img title="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"       width="55" height="55"/>
+<img title="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"       width="55" height="55"/>
+<img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg"       width="55" height="55"/>
+<img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"       width="55" height="55"/>
+  
 </div>  
 
 ---
