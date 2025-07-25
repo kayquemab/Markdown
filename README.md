@@ -1,4 +1,4 @@
-# Descrição para Devs - Full-Stack
+# Descrição para Devs Full-Stack
 
 ### 📌 Sobre
 
