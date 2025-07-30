@@ -72,9 +72,11 @@ Sou movido por inovação, tecnologia e aprendizado constante. A cada projeto, b
 <img title="Angular"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"             width="55" height="55"/>
 <img title="Vite"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"               width="55" height="55"/>
 <img title="Node"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"               width="55" height="55"/>
+<img title="Laravel"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"             width="55" height="55"/>
+<img title="Django"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"                  width="55" height="55"/>
 <img title="Express"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"             width="55" height="55"/>
 <img title="Next"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"               width="55" height="55"/>
-
+       
 ### 🛠️ Ferramentas
 
 <img title="Git"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                     width="55" height="55"/>
